@@ -14,6 +14,10 @@ scipyImage:
   repository: jupyter/scipy-notebook
   pullPolicy: IfNotPresent
   tag: 2023-10-20@sha256:bf4de44b0fa8a422ebc325e695d572d304bd290c055e028a6507921a294213bc
+pytorchImage:
+  repository: quay.io/jupyter/pytorch-notebook
+  pullPolicy: IfNotPresent
+  tag: 2024-06-03@sha256:10a727548c7436849ab45f4c377bd08ae0a565575977181922c60faa93f637bb
 tensorflowImage:
   repository: jupyter/tensorflow-notebook
   pullPolicy: IfNotPresent

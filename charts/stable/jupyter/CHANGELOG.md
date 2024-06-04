@@ -2,6 +2,10 @@
 title: Changelog
 pagefind: false
 ---
+## jupyter-1.0.1
+
+### Chore
+- add image for pytorch-notebook
 
 ## [jupyter-1.0.0](https://github.com/truecharts/charts/compare/jupyter-0.0.22...jupyter-1.0.0) (2022-11-10)
 

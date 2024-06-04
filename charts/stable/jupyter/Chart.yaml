@@ -7,7 +7,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: 2023.10.20
+appVersion: 2024.06.03
 dependencies:
   - name: common
     version: 24.0.0
@@ -41,5 +41,6 @@ sources:
   - https://hub.docker.com/r/jupyter/r-notebook
   - https://hub.docker.com/r/jupyter/scipy-notebook
   - https://hub.docker.com/r/jupyter/tensorflow-notebook
+  - https://quay.io/repository/jupyter/pytorch-notebook
 type: application
-version: 10.0.0
+version: 10.0.1
